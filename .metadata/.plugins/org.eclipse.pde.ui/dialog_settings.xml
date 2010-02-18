@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="rcpPlugin" value="false"/>
+	<item key="osgiProject" value="false"/>
+	<item key="apiAnalysis" value="false"/>
+	<item key="targetName" value=""/>
+	<item key="uiPlugin" value="true"/>
+	<item key="generateActivator" value="true"/>
+</section>

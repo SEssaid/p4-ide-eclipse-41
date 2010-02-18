@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui.manifestEditor",1262895985625
+activated,editor,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui.manifestEditor",1262895985813
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1262895989718
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262895999205
+executed,command,org.eclipse.team.svn.ui,0.7.8.I20091023-1300,"org.eclipse.team.svn.ui.command.RevertCommand",1262896000536
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896000589
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896001122
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896001843
+activated,editor,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui.manifestEditor",1262896001970
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1262896002075
+closed,editor,org.eclipse.pde.ui,3.5.0.v20090821,"org.eclipse.pde.ui.manifestEditor",1262896002075
+error,log,,,"Unhandled event loop exception",1262896002453
+error,log,,,"Unhandled event loop exception",1262896002454
+error,log,,,"Unhandled event loop exception",1262896002455
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896006173
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1262896023411
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896023455
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896030043
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.cleanAction",1262896033758
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896033798
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896036761
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.properties",1262896047207
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896047266
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896063587
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1262896086253
